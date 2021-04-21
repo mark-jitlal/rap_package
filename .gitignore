@@ -7,3 +7,7 @@
 .dta
 
 sensitive.txt
+
+# don't ignore this:
+!register.csv
+!fy2.rda
